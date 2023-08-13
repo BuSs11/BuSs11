@@ -4,15 +4,15 @@
 <div align="center">
 <h3 style="font-family: 'Courier New'; font-size: 20px;">I'm a frontend / iOS Native developer.<br />I prioritize user experience and strive to write clean and efficient code. 📱💻</h3>
 </div>
-
+<br>
 <div align="center">
 <h2 style="font-family: 'Courier New';" data-ke-size="size23">❤️ Things I love...</h2>
 <h3 style="font-family: 'Courier New';" data-ke-size="size20">🍎Apple devices, 📚Continuous learning<br />🖥Code reviewing, 🎬Watching movies, 🏃Exercise</h3>
 </div>
+<br>
 <div align="center">
 <h2 style="font-family: 'Courier New';" data-ke-size="size23">🔥 Tech Stack &amp; Tools 🔥</h2>
 </div>
-<p data-ke-size="size16">&nbsp;</p>
 
 <div align="center">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" /> 
