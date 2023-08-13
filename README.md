@@ -15,6 +15,9 @@
 </div>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&amp;logo=css3&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/-LESS-CC6699?style=flat-square&amp;logo=sass&amp;logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" /> 
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" />
   <img src="https://img.shields.io/badge/-Objective--C-007ACC?style=flat-square&amp;logo=c&amp;logoColor=white" /> 
