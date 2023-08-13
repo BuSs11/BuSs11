@@ -2,15 +2,15 @@
 <h1 style="color: #e34f26; text-shadow: 2px 2px #FFC107; font-family: 'Courier New', Courier, monospace; border-bottom: 4px solid #E34F26; padding: 10px;">👋 Hi there!</h1>
 </div>
 <div align="center">
-<h4 style="font-family: 'Courier New'; font-size: 20px;">I'm a frontend / iOS Native developer.<br />I prioritize user experience and strive to write clean and efficient code. 📱💻</h4>
+<h3 style="font-family: 'Courier New'; font-size: 20px;">I'm a frontend / iOS Native developer.<br />I prioritize user experience and strive to write clean and efficient code. 📱💻</h3>
 </div>
 
 <div align="center">
-<h3 style="font-family: 'Courier New';" data-ke-size="size23">❤️ Things I love...</h3>
-<h4 style="font-family: 'Courier New';" data-ke-size="size20">🍎Apple devices, 📚Continuous learning<br />🖥Code reviewing, 🎬Watching movies, 🏃Exercise</h4>
+<h2 style="font-family: 'Courier New';" data-ke-size="size23">❤️ Things I love...</h2>
+<h3 style="font-family: 'Courier New';" data-ke-size="size20">🍎Apple devices, 📚Continuous learning<br />🖥Code reviewing, 🎬Watching movies, 🏃Exercise</h3>
 </div>
 <div align="center">
-<h3 style="font-family: 'Courier New';" data-ke-size="size23">🔥 Tech Stack &amp; Tools 🔥</h3>
+<h2 style="font-family: 'Courier New';" data-ke-size="size23">🔥 Tech Stack &amp; Tools 🔥</h2>
 </div>
 <p data-ke-size="size16">&nbsp;</p>
 
