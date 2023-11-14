@@ -1,5 +1,4 @@
-## iOS/FrontEnd 개발자 정성규입니다.👋
-I prioritize user experience and strive to write clean and efficient code. 📱💻<br><br>
+# JUST DO IT <br><br>
 
 ![BuSs's GitHub stats](https://github-readme-stats.vercel.app/api?username=BuSs11&show_icons=true&theme=dark)
 
