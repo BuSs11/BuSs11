@@ -1,4 +1,4 @@
-# JUST DO IT <br><br>
+# 君子務本本立而道生 <br><br>
 
 ![BuSs's GitHub stats](https://github-readme-stats.vercel.app/api?username=BuSs11&show_icons=true&theme=dark)
 
